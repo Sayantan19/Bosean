@@ -1,0 +1,41 @@
+#jumbo{
+    position: relative;
+    width: 1235px;
+    height: 327px;
+    z-index:0;
+    width: 100%;
+    color: black;
+    filter:opacity(0.5) contrast(1.6) brightness(45%);
+}
+
+#jumbo-txt{
+    position: relative;
+    z-index: 1;
+}
+
+.tags{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+}
+
+#title-text{
+    /* position:absolute; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 25%;
+    left: 50%;
+}
+
+#tag{
+    /* position: absolute; */
+    width: 100%;
+    /* font-size: 14px; */
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    /* top: 20em; */
+}

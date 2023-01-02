@@ -1,0 +1,22 @@
+#service> :hover {
+    box-shadow: 0px 0px 5px 5px rgba(226, 217, 217, 0.664);
+    transition: 0.3s ease-in-out;
+}
+
+#serv-body-1{
+    /* width: 100%; */
+    /* margin: 0 !important; */
+    /* padding: 2.5em 0px; */
+    background-color: #49274A;
+}
+
+#serv-body-2{
+    background-color: #94618E;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    margin: auto;
+}

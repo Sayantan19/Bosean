@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.024762b9.css",
+    "main.js": "/static/js/main.75ef98c9.js",
+    "static/js/787.ed575c18.chunk.js": "/static/js/787.ed575c18.chunk.js",
+    "static/media/jumbo.jpg": "/static/media/jumbo.ecc6c63cc1ca0018113f.jpg",
+    "static/media/6.jpeg": "/static/media/6.34b673209fdc5ecfb22f.jpeg",
+    "static/media/8.jpeg": "/static/media/8.728d4acad9ed8cea4eea.jpeg",
+    "static/media/2.jpeg": "/static/media/2.d1ac2b341e3070cd7b76.jpeg",
+    "static/media/9.jpeg": "/static/media/9.2f369be7a8b4adb3b655.jpeg",
+    "static/media/1.jpeg": "/static/media/1.2bf9f0ffb4a2d9816974.jpeg",
+    "static/media/10.jpeg": "/static/media/10.c95abdfff157b4cb02b7.jpeg",
+    "static/media/call-logo.png": "/static/media/call-logo.5533acb4bcb829be1b14.png",
+    "index.html": "/index.html",
+    "main.024762b9.css.map": "/static/css/main.024762b9.css.map",
+    "main.75ef98c9.js.map": "/static/js/main.75ef98c9.js.map",
+    "787.ed575c18.chunk.js.map": "/static/js/787.ed575c18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.024762b9.css",
+    "static/js/main.75ef98c9.js"
+  ]
+}

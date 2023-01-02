@@ -1,0 +1,12 @@
+#Maps{
+    filter: contrast(1.2) opacity(0.8);
+}
+
+#sub{
+    background-color: #49274A;
+}
+
+#sub:hover{
+    opacity: 0.8;
+    transition: 0.25s ease-in-out;
+}

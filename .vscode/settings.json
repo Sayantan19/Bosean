@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/48930eb3-1091-4831-9e33-c2c9e87e51d8/AppServices/subscriptions/48930eb3-1091-4831-9e33-c2c9e87e51d8/resourceGroups/Bosean/providers/Microsoft.Web/sites/bosean-interio",
+    "appService.deploySubpath": "."
+}

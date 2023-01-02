@@ -1,0 +1,39 @@
+#sol {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* z-index: -1; */
+}
+
+#about {
+    background-color: #94618E;
+    color: white;
+}
+
+#abt-body {
+    background-color: #49274A;
+    color: white;
+}
+
+.imgt1 {
+    height: 24em;
+    width: 20em;
+}
+
+.imgt2 {
+    height: 24em;
+    width: 30.5em;
+}
+
+#imag> :hover {
+    box-shadow: 0px 0px 6px 6px rgb(226 217 217 / 66%);
+    transition: 0.3s ease-in-out;
+}
+
+@media screen and (min-width:1280px) {
+    .imgt2 {
+        height: 24em;
+        width: 38em;
+    }
+}

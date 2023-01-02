@@ -1,0 +1,9 @@
+.Social{
+    width: 25px;
+    height: 25px;
+    /* margin: 2px; */
+}
+
+.cname> :hover{
+    color: black;
+}
