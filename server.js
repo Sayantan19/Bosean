@@ -5,6 +5,12 @@ const mongoose = require("mongoose");
 
 const cors = require('cors');
 
+
+var corsOptions = {
+    origin: 'https://boseaninterio.netlify.app/',
+    optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+}
+
 app.use(cors());
 
 app.use(express.json());
