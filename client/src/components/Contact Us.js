@@ -36,8 +36,9 @@ export default function ContactUs() {
             email: input.email,
             phone: input.phone
         }
-        axios.post("/det", newDet);
-        alert('Details successfully received!!');
+        axios.post("https://bosean.onrender.com/det", newDet).then(
+            alert('Details successfully received!!'))
+            .catch(console.log('Error'));
         console.log('Submit')
         handleOnReset()
     }
