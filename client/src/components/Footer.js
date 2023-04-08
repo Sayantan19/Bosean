@@ -15,7 +15,7 @@ export default function Footer() {
                         <a href="https://www.instagram.com/shaa_yon_ton/" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@shaa_yon_ton</a>
                     </p>
                     <nav className="visible md:hidden flex py-2 flex-wrap items-center text-base justify-center">
-                        <a href="http://instagram.com"><img className=" mx-0.5 Social" src={insta} alt="Insta" srcSet="" /></a>
+                        <a href="https://instagram.com/boseaninterio?igshid=YmMyMTA2M2Y="><img className=" mx-0.5 Social" src={insta} alt="Insta" srcSet="" /></a>
                         <a href="http://facebook.com"><img className=" mx-0.5 Social" src={fb} alt="FB" srcSet="" /></a>
                         <a href="tel:8777603510"><img className=" mx-0.5 Social" src={call} alt="call" srcSet="" /></a>
                     </nav>
